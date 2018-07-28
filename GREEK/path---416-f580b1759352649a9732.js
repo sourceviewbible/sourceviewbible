@@ -1,0 +1,2 @@
+webpackJsonp([0xe1b7fa303903],{563:function(n,t){n.exports={data:{postsJson:{title:"Introduction to 1 John - ΙΩΑΝΝΟΥ ΕΠΙΣΤΟΛΗ ΠΡΩΤΗ",questionsTitle:null,display:"none",bookName:"1 John - ΙΩΑΝΝΟΥ ΕΠΙΣΤΟΛΗ ΠΡΩΤΗ",ref:null,html:null,path:"/416",Question1:null,Question2:null,Question3:null,Question4:null,prevPath:"/415",nextPath:"/417"}},pathContext:{}}}});
+//# sourceMappingURL=path---416-f580b1759352649a9732.js.map
