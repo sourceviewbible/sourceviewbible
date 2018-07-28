@@ -1,0 +1,2 @@
+webpackJsonp([0xb7363ad344b4],{561:function(t,n){t.exports={data:{postsJson:{title:"Introduction to 2 Peter - ΠΕΤΡΟΥ ΕΠΙΣΤΟΛΗ ΔΕΥΤΕΡΑ",questionsTitle:null,display:"none",bookName:"2 Peter - ΠΕΤΡΟΥ ΕΠΙΣΤΟΛΗ ΔΕΥΤΕΡΑ",ref:null,html:null,path:"/414",Question1:null,Question2:null,Question3:null,Question4:null,prevPath:"/413",nextPath:"/415"}},pathContext:{}}}});
+//# sourceMappingURL=path---414-def04bfc1a2e398c740f.js.map
