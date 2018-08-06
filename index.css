@@ -20,13 +20,13 @@ body {
     display: inline-block;
     width: 80px;
     margin: 7px 3px;
-    height: 130px;
+    height: 115px;
     border: solid 2px lightgray;
     box-shadow: 2px 4px 2px 0;
     padding: 15px 5px 0px 5px;
     border-radius: 15px;
     text-align: center;
-    font-size: 17px;
+    font-size: 14px;
     line-height: 1.2;
 }
 
