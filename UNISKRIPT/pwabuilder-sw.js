@@ -1,6 +1,6 @@
 //This is the service worker with the Cache-first network
 
-var CACHE = 'pwabuilder-precache-v1';
+var CACHE = 'pwabuilder-precache-v1.0';
 var precacheFiles = [
       /* Add an array of files to precache for your app */
       '326/index.html',
