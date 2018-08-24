@@ -1,7 +1,7 @@
 {
     "name": "SVB Reader",
     "short_name": "SVB Reader",
-    "start_url": "https://sourceviewbible.github.io/UNISKRIPT",
+    "start_url": "https://sourceviewbible.github.io/UNISKRIPT/",
     "background_color": "transparent",
     "theme_color": "#a2466c",
     "display": "fullscreen",
