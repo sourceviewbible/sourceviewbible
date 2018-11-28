@@ -5,7 +5,7 @@ body {
 
 .SVLogo {
     display: inline-block;
-    width: 200px;
+    width: 180px;
 }
 
 .select {
@@ -24,6 +24,20 @@ body {
     border: solid 2px lightgray;
     box-shadow: 2px 4px 2px 0;
     padding: 15px 5px 0px 5px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 14px;
+    line-height: 1.2;
+}
+
+.languagediv-lang {
+    display: inline-block;
+    width: 80px;
+    margin: 7px 3px;
+    height: auto;
+    border: solid 2px lightgray;
+    box-shadow: 2px 4px 2px 0;
+    padding: 0px 5px 0px 5px;
     border-radius: 15px;
     text-align: center;
     font-size: 14px;
