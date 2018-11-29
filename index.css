@@ -1,6 +1,7 @@
 body {
     text-align: center;
     font-family: 'Noto Sans', sans-serif;
+    /* width: 100%; */
 }
 
 .SVLogo {
@@ -132,5 +133,6 @@ a {
 } */
 
 .appstores {
-    width: 150px;
+    width: 100px;
+    margin: 2px;
 }
