@@ -117,3 +117,20 @@ a {
 .home-link {
     color: navy;
 }
+
+.appbackground {
+    width: 100%;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+/* .container > div {
+    flex:1;
+} */
+
+.appstores {
+    width: 150px;
+}
