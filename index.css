@@ -119,10 +119,6 @@ a {
     color: navy;
 }
 
-.appbackground {
-    width: 100%;
-}
-
 .container {
     display: flex;
     justify-content: center;
@@ -132,7 +128,3 @@ a {
     flex:1;
 } */
 
-.appstores {
-    width: 100px;
-    margin: 2px;
-}
