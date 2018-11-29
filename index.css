@@ -1,6 +1,7 @@
 body {
     text-align: center;
     font-family: 'Noto Sans', sans-serif;
+    /* width: 100%; */
 }
 
 .SVLogo {
@@ -117,3 +118,13 @@ a {
 .home-link {
     color: navy;
 }
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+/* .container > div {
+    flex:1;
+} */
+
