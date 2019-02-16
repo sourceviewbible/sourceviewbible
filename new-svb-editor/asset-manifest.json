@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.1d2e65a0.css",
-  "main.css.map": "static/css/main.1d2e65a0.css.map",
-  "main.js": "static/js/main.030bf409.js",
-  "main.js.map": "static/js/main.030bf409.js.map",
+  "main.css": "static/css/main.8beae9ff.css",
+  "main.css.map": "static/css/main.8beae9ff.css.map",
+  "main.js": "static/js/main.1470f736.js",
+  "main.js.map": "static/js/main.1470f736.js.map",
   "static/media/Chapter.png": "static/media/Chapter.765be3d7.png",
   "static/media/CheckSources.png": "static/media/CheckSources.48e313a8.png",
   "static/media/DeleteOldSources.png": "static/media/DeleteOldSources.f2ea0cc5.png",
@@ -12,6 +12,7 @@
   "static/media/QuotationMark.png": "static/media/QuotationMark.acb36436.png",
   "static/media/Save.png": "static/media/Save.2519807c.png",
   "static/media/SaveGrey.png": "static/media/SaveGrey.7d4e71f5.png",
+  "static/media/Subtitle.png": "static/media/Subtitle.b294bc40.png",
   "static/media/Verse.png": "static/media/Verse.10498f35.png",
   "static/media/baseline-format_bold-24px.svg": "static/media/baseline-format_bold-24px.8680cb7c.svg",
   "static/media/baseline-format_italic-24px.svg": "static/media/baseline-format_italic-24px.33a74485.svg",
@@ -19,6 +20,5 @@
   "static/media/baseline-format_list_numbered-24px.svg": "static/media/baseline-format_list_numbered-24px.84ff2b73.svg",
   "static/media/baseline-format_quote-24px.svg": "static/media/baseline-format_quote-24px.6743ecc4.svg",
   "static/media/baseline-format_underlined-24px.svg": "static/media/baseline-format_underlined-24px.4725a735.svg",
-  "static/media/baseline-table-24px.svg": "static/media/baseline-table-24px.ba0c5038.svg",
-  "static/media/baseline-text_fields-24px.svg": "static/media/baseline-text_fields-24px.f7f9443c.svg"
+  "static/media/baseline-table-24px.svg": "static/media/baseline-table-24px.ba0c5038.svg"
 }
