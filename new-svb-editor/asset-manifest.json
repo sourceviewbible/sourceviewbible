@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.211ceea2.css",
-  "main.css.map": "static/css/main.211ceea2.css.map",
-  "main.js": "static/js/main.f92f782e.js",
-  "main.js.map": "static/js/main.f92f782e.js.map",
+  "main.css": "static/css/main.2054a43b.css",
+  "main.css.map": "static/css/main.2054a43b.css.map",
+  "main.js": "static/js/main.64e3b1e0.js",
+  "main.js.map": "static/js/main.64e3b1e0.js.map",
   "static/media/Chapter.png": "static/media/Chapter.765be3d7.png",
   "static/media/CheckSources.png": "static/media/CheckSources.48e313a8.png",
   "static/media/DeleteOldSources.png": "static/media/DeleteOldSources.f2ea0cc5.png",
@@ -20,5 +20,7 @@
   "static/media/baseline-format_list_numbered-24px.svg": "static/media/baseline-format_list_numbered-24px.84ff2b73.svg",
   "static/media/baseline-format_quote-24px.svg": "static/media/baseline-format_quote-24px.6743ecc4.svg",
   "static/media/baseline-format_underlined-24px.svg": "static/media/baseline-format_underlined-24px.4725a735.svg",
-  "static/media/baseline-table-24px.svg": "static/media/baseline-table-24px.ba0c5038.svg"
+  "static/media/baseline-table-24px.svg": "static/media/baseline-table-24px.ba0c5038.svg",
+  "static/media/blueHighlight.jpeg": "static/media/blueHighlight.cdb1ad9f.jpeg",
+  "static/media/yellowHighlight.jpeg": "static/media/yellowHighlight.f02d9263.jpeg"
 }
